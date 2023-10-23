@@ -1,6 +1,9 @@
-# Buatlah Use Case Diagram, Activity Diagram, Sequence Diagram Payment of Sale Syatem!
+# Buatlah Use Case Diagram, Activity Diagram, Sequence Diagram, Class Diagram Payment of Sale Syatem!
 
 # A. USE CAS DIAGRAM PENJUALAN BUKU
+
+# Class Diagram 
+![Class Diagram Sistem Penjualan Buku Online](https://github.com/RianFauza/UseCase1/assets/115771479/694ebd2b-a1cb-4914-9a64-8cc214c9a5ed)
 
 # 1. USE CASE DIAGRAM
 ![Use Case Model](https://github.com/RianFauza/UseCase1/assets/115771479/3c79e724-fc51-40f5-81d9-84d56c64adb9)
